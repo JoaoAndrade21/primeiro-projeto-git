@@ -3,4 +3,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [@JoaoAndrade21] (https://github.com/JoaoAndrade21)
+- **Aluno:** [@JoaoAndrade21](https://github.com/JoaoAndrade21)
